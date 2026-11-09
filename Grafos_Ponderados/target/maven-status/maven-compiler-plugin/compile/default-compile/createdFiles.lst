@@ -1,0 +1,6 @@
+back_end\Vertice.class
+front_end\InterfazGrafo.class
+back_end\GrafoPonderado.class
+back_end\Arista.class
+com\mycompany\grafos_ponderados\Grafos_Ponderados.class
+front_end\PanelGrafo.class
